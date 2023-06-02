@@ -28,11 +28,8 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-
-![](./screenshot.jpg)
-
-new .png
-mobile device .png
+![new ](https://github.com/aboisam/3-column-preview-card-component/assets/128613281/3b47c3ac-11ae-47fc-a452-3ec63396c772)
+![mobile device ](https://github.com/aboisam/3-column-preview-card-component/assets/128613281/38c1d9f7-1a8e-437c-b933-44ba1d9e7972)
 
 ### Links
 
